@@ -4,6 +4,17 @@ Welcome to the Advent of Code[^aoc] Kotlin project created by [leicmi][github] u
 
 In this repository, leicmi is about to provide solutions for the puzzles using [Kotlin][kotlin] language.
 
+[Personal leaderboard times](https://adventofcode.com/2023/leaderboard/self):
+```text
+      --------Part 1---------   --------Part 2---------
+Day       Time    Rank  Score       Time    Rank  Score
+  5       >24h  111188      0       >24h   80171      0
+  4       >24h  147801      0       >24h  130143      0
+  3   06:00:36   28526      0   06:22:25   23414      0
+  2   15:02:56   80059      0   15:16:46   76162      0
+  1   02:27:40   22150      0   02:33:35   13487      0
+```
+
 If you're stuck with Kotlin-specific questions or anything related to this template, check out the following resources:
 
 - [Kotlin docs][docs]
